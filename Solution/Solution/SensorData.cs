@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Solution
 {
-    internal class SensorData
+    public class SensorData
     {
         public double front_distance;
         public double right_side_distance;
